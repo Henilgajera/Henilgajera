@@ -3,7 +3,7 @@
 
 ---
 
-### 📍 Ahmedabad, Gujarat | 📞 +91-8128464899 | 📫 henilgajera123@gmail.com  
+### 📍 Surat, Gujarat | 📞 +91-8128464899 | 📫 henilgajera123@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/henil2229) • [GitHub](https://github.com/HenilGajera)
 
 ---
