@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💼 About Me
+### 🧑‍💼  Professional Summary
 
 Passionate **Computer Engineering student** with a Minor in **AI/ML**, dedicated to building **intelligent systems** that solve real-world problems.  
 Strong foundation in **Python**, **Machine Learning**, and **Data Science**, with hands-on project experience in **recommendation engines**, **chatbots**, and **financial risk modeling**.
