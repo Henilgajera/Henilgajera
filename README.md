@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Henil Gajera</h1>
-<h3 align="center">AI/ML Intern | Computer Engineering Student | Python Developer</h3>
+<h3 align="center">AI/ML Enthusiast | Computer Engineering Student | Python Developer</h3>
 
 ---
 
